@@ -1,24 +1,199 @@
-# 💫 About Me:
-Currently working at: Tolour (www.tolour.com)<br>Role: Director<br><br>Skills:<br>AI/ML: Machine Learning, Deep Learning, PyTorch, Scikit-Learn<br>Software & Web: Next.js, TypeScript, SQL<br>Robotics: ROS (Robot Operating System)
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=soft&color=0A0F0B&colorEnd=1A2F1B&height=180&section=header&text=Agentic+AI+%26+Deep+Learning+Engineer&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+</div>
 
+<div align="center">
+  <img src="https://github.com/adityapratap112.png" width="130" height="130" style="border-radius: 15px;" />
+</div>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya641jack@gmail.com) 
+<h1 align="center">From raw data to deployed intelligence — full stack AI</h1>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) !
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityapratap112&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityapratap112&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapratap112&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=57D5FF&center=true&vCenter=true&width=620&height=30&lines=Classical+ML+%C2%B7+Deep+Learning+%C2%B7+LLMs;Agentic+AI+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems;Voice+AI+%C2%B7+Guardrails+%C2%B7+Observability;Production+Pipelines+%C2%B7+Cloud+Deployment" alt="Typing SVG" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityapratap112&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityapratap112&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-pratap-singh-6551ba2bb)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapratap112)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapr64112@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adityapratap112.vercel.app/)
 
----
-[![](https://visitcount.itsvg.in/api?id=adityapratap112&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+<br/>
+
+##  The Full AI Stack
+
+> I cover the entire AI engineering surface — from training classical models to shipping voice-enabled autonomous agents in production.
+
+<br/>
+
+###  Classical ML & Data
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+
+- Supervised & unsupervised learning (classification, regression, clustering)
+- Feature engineering, dimensionality reduction, model selection & cross-validation
+- End-to-end ML pipelines from raw data to evaluation
+
+<br/>
+
+###  Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white)
+
+- **CNNs** — image classification, medical imaging (lung cancer detection)
+- **RNNs / Encoder–Decoder** — trajectory forecasting, time-series prediction, sequence modeling
+- Transfer learning, data augmentation, custom loss functions
+- ROS2 + Gazebo simulation environments for robotics DL research
+
+<br/>
+
+###  LLMs & Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+- Prompt engineering, structured outputs, function/tool calling
+- Fine-tuning with **LoRA / QLoRA** on open-source models
+- LLM evaluation pipelines — benchmarking models across latency, quality, and cost
+- RAG systems — vector stores, hybrid retrieval, re-ranking
+
+<br/>
+
+###  Agentic AI Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
+
+- **Multi-agent orchestration** with LangGraph — stateful graphs, conditional branching, human-in-the-loop
+- **Tool integration** via OAuth and MCP (Model Context Protocol)
+- Self-improvement loops (AutoResearch-style agent architectures)
+- Memory systems — short-term, long-term, episodic; vector + relational backends
+
+<br/>
+
+###  Voice AI
+![LiveKit](https://img.shields.io/badge/LiveKit-E8365D?style=flat-square&logoColor=white)
+
+- Real-time voice agent pipelines using **LiveKit** (STT → LLM → TTS)
+- Session management, interruption handling, low-latency streaming
+- End-to-end voice agent architecture design
+
+<br/>
+
+###  Guardrails & Safety
+- Input/output validation layers for LLM pipelines
+- Guardrails frameworks for hallucination reduction and PII filtering
+- Prompt injection mitigation and safety evaluation
+
+<br/>
+
+###  Observability & Evaluation
+![Langfuse](https://img.shields.io/badge/Langfuse-6C47FF?style=flat-square&logoColor=white)
+
+- Production LLM monitoring with **Langfuse** — traces, spans, scoring
+- Evaluation pipeline design: automated + human-in-the-loop scoring
+- A/B model comparison, latency tracking, cost analysis
+
+<br/>
+
+###  Deployment & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+- Dockerized agent deployments on **AWS EC2**
+- PostgreSQL, Redis, Supabase/PostgREST for agent memory and state persistence
+
+<br/>
+
+###  Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+- REST API design and integration for AI-powered products
+- Full-stack development (Next.js + Python backend)
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+##  Featured Projects
+
+<details open>
+<summary><b> Agentic AI — AutoResearch Self-Improvement Loop</b></summary>
+<br>
+
+- Multi-agent system with self-improving loop architecture
+- Tool integration via **OAuth + MCP** for dynamic capability extension
+- Stateful reasoning with persistent memory using LangGraph
+
+</details>
+
+<details open>
+<summary><b> Deep Learning — Lung Cancer Classification (CNN)</b></summary>
+<br>
+
+- CNN trained on CT scan datasets for binary classification
+- Transfer learning + augmentation pipeline; threshold-tuned for clinical precision
+
+</details>
+
+<details open>
+<summary><b> Deep Learning — Autonomous Robot Navigation (RNN + ROS2)</b></summary>
+<br>
+
+- ROS2 + Gazebo simulation for trajectory analysis and dataset generation
+- RNN encoder–decoder in PyTorch for motion forecasting
+- A\* and Dijkstra baselines; time-series feature engineering for stability
+
+</details>
+
+<details>
+<summary><b>🛠️ Personal Tools</b></summary>
+<br>
+
+- **llm-fine-tuner** — CLI for LoRA/QLoRA fine-tuning of open-source LLMs
+- **timeseries-bench** — Benchmark suite for time-series forecasting models
+- **cv-pipeline** — Modular computer vision training framework (PyTorch Lightning)
+
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=2D4A2D&bgStartColor=2D4A2D&bgEndColor=2D4A2D&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+<h2 align="center">GitHub Activity </h2>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=adityapratap112&theme=merko&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=8&count_private=true" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=adityapratap112&theme=merko&layout=pie&hide_border=false&hide_progress=false&langs_count=6&border_radius=8&count_private=true" alt="Top Languages" width="49%" height="230" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapratap112&theme=merko&hide_border=false" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=merko&quote=%E2%80%9CI+think+2025-2035+is+the+decade+of+agents%E2%80%A6+you%E2%80%99ll+spin+up+organizations+of+Operators+for+long-running+tasks+of+your+choice.%E2%80%9D&author=Andrej+Karpathy&textAlign=center&authorAlign=center" alt="Quote" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=0A0F0B&colorEnd=1A2F1B&height=100&section=footer&text=Data-driven.+Research-inspired.+Production-ready.&fontSize=24&fontColor=ABD200&animation=none&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=72" />
+</div>
